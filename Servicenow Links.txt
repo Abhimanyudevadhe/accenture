@@ -19,17 +19,12 @@ ServiceNow fundamentals
 
 https://nowlearning.service-now.com/lxp?id=overview&sys_id=6b78901c1b748050b1c7fe631a4bcb73&type=path
 
-User Name:-Asmita.Nalawade@cognizant.com
-Password:-Asmita@1234
-
-**CSA ebook read this very important each and every point:-
-https://evantage.gilmoreglobal.com/
-User Name:-Asmita.Nalawade@cognizant.com
-Password:-Asmita@1234
 
 **You will get Most of the questions here for CSA
 Dumps base service now
 
 **
 
-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
+https://github.com/Abhimanyudevadhe/accenture.git
+
+Chnages Done
